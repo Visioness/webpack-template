@@ -1,1 +1,1 @@
-// Main JS file to import all modules
+import './styles/style.css';
